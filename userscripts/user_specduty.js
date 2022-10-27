@@ -6,6 +6,13 @@ const _exudspecDutyLang = {
 		"ColumnArrival": "Arrival"  ,
 		"NoData": "No data found!" 
 	},
+	"fr-fr": {
+		"menuItemName": "Tâches des Spécialistes"  ,
+		"menuTitle": "Temps d'exécution des Spécialistes"  ,
+		"ColumnEstimated": "Estimé"  ,
+		"ColumnArrival": "Arrivée"  ,
+		"NoData": "Pas d'information !" 
+	},
 	"pt-br": {
 		"menuItemName": "Tarefas Ativas"  ,
 		"menuTitle": "Tempo das tarefas dos especialistas"  ,
