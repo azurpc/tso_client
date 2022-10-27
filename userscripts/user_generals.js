@@ -13,6 +13,18 @@ const _exudGeneralsLang = {
         "CommandSent": "Command sent",
         "ColumnOwner": "Owner"
     },
+	"fr-fr": {
+	"ByName": "Trier par Nom",
+        "ByType": "Trier par Type",
+        "ShowGuest": "Afficher Invité",
+        "HideGuest": "Masquer Invité",
+        "ShowUnselected": "Afficher Tout",
+        "HideUnselected": "Afficher Sélection",
+        "SelectAll": "Sélectionner Tout",
+        "Load": "Charger",
+        "CommandSent": "Envoyer",
+        "ColumnOwner": "Propriétaire"
+    },
     "pt-br": {
         "ByName": "Classificar por nome",
         "ByType": "Classificar por tipo",
